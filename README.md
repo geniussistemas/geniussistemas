@@ -1,4 +1,4 @@
-FAZEMOS O QUE O DONO QUER. SE NÃO QUER NÃO É.
+      
 
 <!---
 geniussistemas/geniussistemas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
